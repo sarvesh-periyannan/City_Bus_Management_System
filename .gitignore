@@ -1,0 +1,12 @@
+
+# Compiled program
+city_bus
+city_bus.exe
+
+# Generated data files
+buses.dat
+routes.dat
+passengers.dat
+
+# macOS temporary files
+.DS_Store
